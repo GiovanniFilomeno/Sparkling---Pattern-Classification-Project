@@ -1,0 +1,8 @@
+MLPC2025_dataset/audio/*.mp3
+MLPC2025_dataset/audio_features/*.npz
+MLPC2025_dataset/README.md
+MLPC2025_dataset/annotations.csv
+MLPC2025_dataset/annotations_text_embeddings.npz
+MLPC2025_dataset/metadata.csv
+MLPC2025_dataset/metadata_keywords_embeddings.npz
+MLPC2025_dataset/metadata_title_embeddings.npz
