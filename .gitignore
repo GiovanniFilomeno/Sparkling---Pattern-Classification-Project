@@ -7,4 +7,6 @@ MLPC2025_dataset/metadata.csv
 MLPC2025_dataset/metadata_keywords_embeddings.npz
 MLPC2025_dataset/metadata_title_embeddings.npz
 MLPC2025_dataset/average_audio_features.npy
-/MLPC2025_classification
+MLPC2025_classification/audio/*.mp3
+MLPC2025_classification/audio_features/*.npz
+MLPC2025_classification/labels/*.npz
