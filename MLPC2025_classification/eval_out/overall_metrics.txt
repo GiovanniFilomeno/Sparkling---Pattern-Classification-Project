@@ -1,4 +1,0 @@
-Macro-F1  : 0.4509
-Micro-F1  : 0.4425
-Micro-P   : 0.4663
-Micro-R   : 0.4210
