@@ -11,3 +11,6 @@ MLPC2025_classification/audio/*.mp3
 MLPC2025_classification/audio_features/*.npz
 MLPC2025_classification/labels/*.npz
 /MLPC2025_test
+/04 - Model Training/frame_out
+/MLPC2025_classification
+/04 - Model Training/models
