@@ -14,3 +14,8 @@ MLPC2025_classification/labels/*.npz
 /04 - Model Training/frame_out
 /MLPC2025_classification
 /04 - Model Training/models
+/04 - Model Training/Bonus/data/segments
+/04 - Model Training/Bonus/PretrainedSED
+04 - Model Training/Bonus/best_model_1.pt
+04 - Model Training/Bonus/best_frame_mn.pt
+04 - Model Training/Bonus/resources/ATST-F_strong_1.pt
